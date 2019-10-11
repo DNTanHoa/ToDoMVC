@@ -230,10 +230,10 @@ iframe {
 /*==================================================================
 [ login more ]*/
 .login100-more {
-  width: calc(100% - 560px);
+  width: calc(100% - 480px);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: center top;
   position: relative;
   z-index: 1;
 }
@@ -248,7 +248,7 @@ iframe {
   top: 0;
   left: 0;
   background-color: black;
-  opacity: 0.4;
+  opacity: 0;
 }
 
 
@@ -257,7 +257,7 @@ iframe {
 [ Form ]*/
 
 .login100-form {
-  width: 560px;
+  width: 480px;
   min-height: 100vh;
   display: block;
   background-color: #f7f7f7;
